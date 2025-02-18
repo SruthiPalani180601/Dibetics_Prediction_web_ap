@@ -1,1 +1,1 @@
-# Dibetics_Prediction_web_ap
+# Dibetes_Prediction_web_app
